@@ -1,5 +1,7 @@
 # spotify_song_prediction
 This notebook tries to predict the popularity of a song based on it's different attributes.
+# data set url
+https://drive.google.com/file/d/1SI3llnCMqZaBCZHoW5r6NMJ1QC7ImwVJ/view?usp=share_link
 # EDA and Machine Learning
 This notebook tries to predict the popularity of a song based on it's different attributes.
 
